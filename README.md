@@ -1,5 +1,6 @@
 # mansa-akebulan
-billionaires empire
+Billionaires empire
+
 Develop AI-based applications: You can develop AI-based applications such as chatbots, recommendation engines, and image recognition software. These applications can be used in various industries like e-commerce, healthcare, and finance.
 
 Work on natural language processing (NLP): NLP is a subfield of AI that deals with understanding and processing human language. You can work on NLP projects such as sentiment analysis, language translation, and speech recognition.
